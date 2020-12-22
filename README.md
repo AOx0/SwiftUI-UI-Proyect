@@ -20,4 +20,4 @@ Se trata de 4 vistas encimadas en un ZStack.
 - La **segunda** vista es la que tiene que ver con el **menú**.
 - La **tercera** y cuarta vista tienen que ver con **lo que el usuario verá** dependiendo de lo que se escoja en el menú.
 
-En [AOx0](https://aox0.github.io/Posts/cel/tesina.html) se habla un poco más de éste proyecto.
+En [AOx0](AOx0.github.io/Posts/CEL/tesina.html) se habla un poco más de éste proyecto.
